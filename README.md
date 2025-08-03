@@ -1,4 +1,4 @@
-Credit Card Launch Strategy – EDA & A/B Testing
+                                                                                  **Credit Card Launch Strategy – EDA & A/B Testing
 This project explores transactional data using exploratory data analysis (EDA) and A/B testing techniques to build a data-driven credit card launch strategy for a retail banking.
 
 🔍 Project Objective
