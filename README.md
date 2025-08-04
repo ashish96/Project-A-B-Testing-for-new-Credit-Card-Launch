@@ -3,9 +3,11 @@ Credit Card Launch Strategy – EDA & A/B Testing
 This project explores transactional data using exploratory data analysis (EDA) and A/B testing techniques to build a data-driven credit card launch strategy for a retail banking.
 
 🔍 Project Objective
+
 To identify the ideal customer segment, platform, and product categories for launching a new credit card, with the goal of increasing adoption and maximizing transaction value.
 
 📌 Key Highlights
+
 Target Audience Identified: Age group 18–25 shows low credit card penetration but high spending activity, indicating high growth potential.
 
 Platform Focus: Amazon emerges as the top-performing platform in terms of transaction volume and engagement.
@@ -17,8 +19,6 @@ Electronics
 Fashion & Apparel
 
 Beauty & Personal Care
-
-A/B Testing Framework: Prepared the foundation for testing promotional strategies and measuring their effect on transaction value and credit card adoption.
 
 📈 Analysis Techniques Used
 Exploratory Data Analysis (EDA) with pandas, matplotlib, and seaborn
